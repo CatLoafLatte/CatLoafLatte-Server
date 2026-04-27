@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "DeVeraFamilyMinecraf.aternos.me:53910",
+    "port": 53910,
     "version": "",
     "try-creative": false
   },
