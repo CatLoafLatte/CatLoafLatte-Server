@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DeVeraFamilyMinecraf.aternos.me",
+    "ip": "DeVeraFamilyMinecraf.aternos.me:53910",
     "port": "53910",
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
