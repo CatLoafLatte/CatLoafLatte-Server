@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "DeVeraFamilyMinecraf.aternos.me",
-    "port": 53910,
+    "port": "53910",
     "version": "",
     "try-creative": false
   },
