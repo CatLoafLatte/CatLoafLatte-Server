@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "DeVeraFamilyMinecraf.aternos.me:53910",
+    "ip": "DeVeraFamilyMinecraf.aternos.me",
     "port": 53910,
     "version": "",
     "try-creative": false
